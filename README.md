@@ -1,5 +1,7 @@
 # Microsoft Power Automate - AutomatischeReistijd
+Automatic travel time in your Office 365 calendar.
 
+## General
 This Power Automate flow will calculate your travel time.
 For each appointment in your Office 365 calendar the Power Automate flow will take the location of it, and calculate the travel time between that and your home location.
 After the travel time has been calculated, the Power Automate flow will create a new appointment in your calendar with the duration of the travel time (+15min).
