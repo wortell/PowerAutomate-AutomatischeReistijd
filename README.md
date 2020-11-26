@@ -11,9 +11,9 @@ _The flow won't be triggerd for Microsoft Teams meetings._
 * Office 365 Outlook
 
 ## Setup
-1. Please download the Automatischereistijd.zip
-2. Go to https://emea.flow.microsoft.com/manage/flows/import
+1. Please download the Automatischereistijd.zip.
+2. Go to https://emea.flow.microsoft.com/manage/flows/import.
 3. Upload and import the Automatischereistijd.zip file.
 4. Open the Power Automate flow and change the calendar id to the desired calendar (need's to be done in 2 locations).
-5. Set your home location in 'StartLocaion'
-6. Save
+5. Set your home location in 'StartLocaion'.
+6. Save.
